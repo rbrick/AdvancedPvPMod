@@ -39,7 +39,6 @@ public class Main {
     public void postInit(FMLPostInitializationEvent event)
     {
      MinecraftForge.EVENT_BUS.register(new TextRenderManager(Minecraft.getMinecraft()));
-     NetworkRegistry.INSTANCE.registerGuiHandler(this, new ButtonManager());
     }
 	
 

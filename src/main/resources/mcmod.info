@@ -1,0 +1,16 @@
+[
+{
+  "modid": "AdvancedPvP Mod",
+  "name": "AdvancedPvP Mod",
+  "description": "A mod I wrote for the AdvancedPvP Server",
+  "version": "Beta",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["rbrick"],
+  "credits": "SasukeGabe for making an awesome server!",
+  "logoFile": "logo.png",
+  "screenshots": [],
+  "dependencies": []
+}
+]
